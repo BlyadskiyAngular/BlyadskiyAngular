@@ -1,0 +1,2 @@
+# BlyadskiyAngular
+Блядский ангулар
